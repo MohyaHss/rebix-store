@@ -1,0 +1,17 @@
+{
+    "shop": "Shop",
+    "lightMode": "Light Mode :",
+    "language": "App Language :",
+    "rial": "Rial",
+    "productName": "Product Name",
+    "seller": "Seller Name",
+    "price": "Price",
+    "done": "Done",
+    "pickingFileError": "Error while picking file.",
+    "noImageError": "No image has chosen !",
+    "deleteMessage": "Do you want to delete this product ?",
+    "successfulRegistrationMessage": "Product saved successfully .",
+    "emptyFieldsMessage": "Fill empty fields",
+    "leaveWithoutRegistrationMessage": "If you leave without registration , your edit won't be considered ! "
+
+}

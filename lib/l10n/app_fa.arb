@@ -1,0 +1,17 @@
+{
+    "shop": "فروشگاه",
+    "lightMode": "حالت روشنایی",
+    "language": "زبان برنامه :",
+    "rial": "ريال",
+    "productName": "نام محصول",
+    "seller": "نام فروشنده",
+    "price": "قیمت",
+    "done": "ثبت",
+    "pickingFileError": "مشکلی در انتخاب تصویر به وجود آمده !",
+    "noImageError": "هیچ تصویری انتخاب نشده !",
+    "deleteMessage": "آیا میخواهید محصول مورد نظر را حذف کنید ؟",
+    "successfulRegistrationMessage": "محصول مورد نظر با موفقیت ثبت شد .",
+    "emptyFieldsMessage": "فیلد های خالی را پر کنید ",
+    "leaveWithoutRegistrationMessage": "اگر بدون ثبت صفحه را ترک کنید ، ویرایش شما لحاظ نخواهد شد . "
+
+}
