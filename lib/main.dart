@@ -108,7 +108,7 @@ class _StoreState extends State<Store> {
         supportedLocales: const [
           Locale('en', ''), // English, no country code
           Locale('fa', '') // Farsi, no country code
-        ],
+        ],=-p
         locale: persianLanguage ? Locale('fa') : Locale('en'),
         debugShowCheckedModeBanner: false,
         theme: appTheme(lightMode),
